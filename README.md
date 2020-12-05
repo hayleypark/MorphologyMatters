@@ -1,12 +1,15 @@
 # Morphology Matters: A Multilingual Language Modeling Analysis
 
-This repository provides supplementary information about the Bible corpus used in **[Morphology Matters: A Multilingual Language Modeling Analysis](arxivlink)** (to appear in TACL 2020).
+This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](arxivlink)** (to appear in TACL 2020).
+
+## Bible corpus
 
 Fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLScs6fG2WxmAcMwbmS5fywzgaC9BQ09UPaJ1SBLuO3ae9cf3Jw/viewform?usp=sf_link)** if you are interested in accessing the Bible corpus used in our paper. DO NOT distribute the corpus and use it for research purposes only.
 
 Our corpus contains 145 Bibles in 92 languages, aligned at the verse level. We provide tokenized train, development and test datasets per Bible as used in our paper. If you are interested in accessing the raw data, please refer to the appropriate sources listed below.
 
 If you use our corpus in your research, please cite as appropriate:
+
 ```
 @article{park2020MorphologyMatters,
     title = {Morphology Matters: A Multilingual Language Modeling Analysis},
@@ -67,7 +70,6 @@ If you use our corpus in your research, please cite as appropriate:
 }
 ```
 
-
 | Source | ISO 639-3* | 
 |--------|------------|
 | Used in [Mielke et al. (2019)](https://www.aclweb.org/anthology/P19-1491), originally from [Mayer and Cysouw (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/220_Paper.pdf) | afr, aln, arb, arz, ayr, bba, ben, bqc, bul, cac, cak, ceb,ces, cmn, cnh, cym, dan, deu, ell, eng, fin, fra, guj, gur, hat,hrv, hun, ind, ita, kek, kjb, lat, lit, mah, mam, mri, mya, nld,nor, plt, poh, por, qub, quh, quy, quz, ron, rus, som, tbz, tel,tgl, tpi, tpm, ukr, vie, wal, wbm, xho, zom|
@@ -76,5 +78,27 @@ If you use our corpus in your research, please cite as appropriate:
 | https://bibles.org | esu , eng |
 | http://old.bibelselskabet.dk | kal|
 
+## WALS features
 
-*Code table available at https://iso639-3.sil.org.
+We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in `[wals_language.csv](/wals_language.csv)`. The reference grammars that we consulted are listed below.
+
+| ISO 639-3* | Language | Reference |
+| ---------- | -------- | --------- |
+| arb | Arabic (Modern Standard) | [Ryding (2005)](https://doi.org/10.1017/CBO9780511486975) |
+| wbm | Wa | [Mai (2012)](https://inter.payap.ac.th/wp-content/uploads/linguistics_students/Seng_Mai_Thesis.pdf) |
+| mri | Māori | [Bauer (1993)](https://doi.org/10.4324/9780203403723) |
+| ess | Yupik (St. Lawrence Island) | [Jacobson (2001)](https://www.google.com/books/edition/A_Practical_Grammar_of_the_St_Lawrence_I/Z40JAAAACAAJ?hl=en) |
+| esu | Yup'ik | [Miyaoka (2012)](https://doi.org/10.1515/9783110278576) |
+| lit | Lithuanian | []() |
+| cym | Welsh | []() |
+| afr | Afrikaans | []() |
+| dan | Danish | []() |
+| nld | Dutch | []() |
+| ben | Bengali | []() |
+| hat | Haitian Creole | [DeGraff (2007)](http://lingphil.mit.edu/papers/degraff/degraff2007hc-ccs.pdf) |
+| tpi | Tok Pisin | [Verhaar (1995)](https://www.jstor.org/stable/20006762), [Woolford (1979)](https://doi.org/10.15144/PL-B66) |
+| cnh | Lai | [Peterson (2003)](https://doi.org/10.4324/9781315399508) |
+| gug | Guaraní | [Gregores and Suárez (1967)](https://doi.org/10.1515/9783111349633) |
+
+
+* Code table available at https://iso639-3.sil.org.
