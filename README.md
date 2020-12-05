@@ -70,6 +70,7 @@ If you use our corpus in your research, please cite as appropriate:
 }
 ```
 
+
 | Source | ISO 639-3* | 
 |--------|------------|
 | Used in [Mielke et al. (2019)](https://www.aclweb.org/anthology/P19-1491), originally from [Mayer and Cysouw (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/220_Paper.pdf) | afr, aln, arb, arz, ayr, bba, ben, bqc, bul, cac, cak, ceb,ces, cmn, cnh, cym, dan, deu, ell, eng, fin, fra, guj, gur, hat,hrv, hun, ind, ita, kek, kjb, lat, lit, mah, mam, mri, mya, nld,nor, plt, poh, por, qub, quh, quy, quz, ron, rus, som, tbz, tel,tgl, tpi, tpm, ukr, vie, wal, wbm, xho, zom|
@@ -101,4 +102,4 @@ We augmented the existing WALS database by consulting reference grammars for eac
 | wbm | Wa | [Mai (2012)](https://inter.payap.ac.th/wp-content/uploads/linguistics_students/Seng_Mai_Thesis.pdf) |
 
 
-\* Code table available at https://iso639-3.sil.org.
+*Code table available at https://iso639-3.sil.org.
