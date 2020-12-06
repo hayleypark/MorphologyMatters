@@ -81,25 +81,29 @@ If you use our corpus in your research, please cite as appropriate:
 
 ## WALS features
 
-We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [`wals_language.csv`](/wals_language.csv). The reference grammars that we consulted are listed below.
+We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [wals_language.csv](/wals_language.csv). The reference grammars that we consulted are listed below.
 
 | ISO 639-3* | Language | References |
 | ---------- | -------- | --------- |
 | afr | Afrikaans | [Donaldson (1993)](https://doi.org/10.1515/9783110863154) |
 | arb | Arabic (Modern Standard) | [Ryding (2005)](https://doi.org/10.1017/CBO9780511486975) |
 | ben | Bengali | [Thompson (2012)](https://doi.org/10.1075/loall.18) |
-| cnh | Lai | [Peterson (2003)](https://doi.org/10.4324/9781315399508) |
+| cnh | Lai | [Peterson (2017)](https://doi.org/10.4324/9781315399508) |
 | cym | Welsh | [King (2015)](https://doi.org/10.4324/9781315739410) |
 | dan | Danish | [Haberland (1995)](https://doi.org/10.4324/9781315812786) |
-| ess | Yupik (St. Lawrence Island) | [Jacobson (2001)](https://www.google.com/books/edition/A_Practical_Grammar_of_the_St_Lawrence_I/Z40JAAAACAAJ) |
+| ess | Yupik (St. Lawrence Island) | [Jacobson (2001)](https://books.google.com/books?id=Z40JAAAACAAJ) |
 | esu | Yup'ik (Central) | [Miyaoka (2012)](https://doi.org/10.1515/9783110278576) |
 | gug | Guaraní | [Gregores and Suárez (1967)](https://doi.org/10.1515/9783111349633) |
 | hat | Haitian Creole | [DeGraff (2007)](http://lingphil.mit.edu/papers/degraff/degraff2007hc-ccs.pdf) |
-| lit | Lithuanian | [Ambrazas (1997)](https://www.google.com/books/edition/Lietuvių_Kalbos_Gramatika/oYQYAQAAIAAJ) |
+| lit | Lithuanian | [Ambrazas (1997)](https://books.google.com/books?id=oYQYAQAAIAAJ) |
 | mri | Māori | [Bauer (1993)](https://doi.org/10.4324/9780203403723) |
+| mvc | Mam | [England (1983)](https://utpress.utexas.edu/books/enggra) |
 | nld | Dutch | [Donaldson (2017)](https://doi.org/10.4324/9781315620787) |
+| qub | Quechua (Huallaga) | [Weber (1989)](https://books.google.com/books?id=fq5js5brciAC) |
+| quy | Quechua (Ayacucho) | [Zariquiey and Córdova (2008)](http://repositorio.pucp.edu.pe/index/handle/123456789/134454) |
+| som | Somali | [Kirk (1905)](https://books.google.com/books?id=BxoUAAAAYAAJ), [Saeed (1999)](https://doi.org/10.1075/loall.10) |
 | tpi | Tok Pisin | [Verhaar (1995)](https://www.jstor.org/stable/20006762), [Woolford (1979)](https://doi.org/10.15144/PL-B66) |
 | wbm | Wa | [Mai (2012)](https://inter.payap.ac.th/wp-content/uploads/linguistics_students/Seng_Mai_Thesis.pdf) |
 
 
-*Code table available at https://iso639-3.sil.org.
+\* Code table available at https://iso639-3.sil.org.
