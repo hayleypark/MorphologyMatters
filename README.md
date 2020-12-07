@@ -81,7 +81,7 @@ If you use our corpus in your research, please cite as appropriate:
 
 ## WALS features
 
-We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [wals_language.csv](/wals_language.csv). The reference grammars that we consulted are listed below (also available as [BibTeX](/wals_sources.bib).
+We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [wals_language.csv](/wals_language.csv). The reference grammars that we consulted are listed below (also available as [BibTeX](/wals_sources.bib)).
 
 | ISO 639-3* | Language | References |
 | ---------- | -------- | --------- |
