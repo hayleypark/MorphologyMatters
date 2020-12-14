@@ -1,6 +1,6 @@
 # Morphology Matters: A Multilingual Language Modeling Analysis
 
-This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](arxivlink)** (to appear in TACL 2020).
+This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](http://arxiv.org/abs/2012.06262)** (to appear in TACL 2020).
 
 ## Bible corpus
 
@@ -11,20 +11,13 @@ Our corpus contains 145 Bibles in 92 languages, aligned at the verse level. We p
 If you use our corpus in your research, please cite as appropriate:
 
 ```
-@article{park2020MorphologyMatters,
-    title = {Morphology Matters: A Multilingual Language Modeling Analysis},
-    author = "Park, Hyunji Hayley and
-      Zhang, Katherine J. and
-      Haley, Coleman and
-      Steimel, Kenneth and
-      Liu, Han and
-      Schwartz, Lane",
-    journal={CoRR},
-    volume={cs.CL/}, to be updated
-    year={2020},
-    eprint={}, to be updated
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@article{park2020morphology,
+      title={Morphology Matters: A Multilingual Language Modeling Analysis}, 
+      author={Hyunji Hayley Park and Katherine J. Zhang and Coleman Haley and Kenneth Steimel and Han Liu and Lane Schwartz},
+      year={2020},
+      eprint={2012.06262},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 
 @inproceedings{mielke-etal-2019-kind,
@@ -81,9 +74,9 @@ If you use our corpus in your research, please cite as appropriate:
 
 ## WALS features
 
-We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [wals_language.csv](/wals/wals_language.csv). The reference grammars that we consulted are listed below (also available as [BibTeX](/wals/wals_sources.bib)).
+We augmented the existing WALS database by consulting reference grammars for each language with missing feature values. The WALS feature values are found in [wals/wals_language.csv](/wals/wals_language.csv). The reference grammars that we consulted are listed below and in [wals/wals_sources.bib](/wals/wals_sources.bib).
 
-| ISO 639-3* | Language | References |
+| ISO 639-3* | Language | Sources |
 | ---------- | -------- | --------- |
 | afr | Afrikaans | [Donaldson (1993)](https://doi.org/10.1515/9783110863154) |
 | arb | Arabic (Modern Standard) | [Ryding (2005)](https://doi.org/10.1017/CBO9780511486975) |
