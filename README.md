@@ -1,23 +1,28 @@
 # Morphology Matters: A Multilingual Language Modeling Analysis
 
-This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](http://arxiv.org/abs/2012.06262)** (to appear in TACL 2020).
+This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](https://doi.org/10.1162/tacl_a_00365)** (*TACL* 2021).
 
 ## Bible corpus
 
-Fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLScs6fG2WxmAcMwbmS5fywzgaC9BQ09UPaJ1SBLuO3ae9cf3Jw/viewform?usp=sf_link)** if you are interested in accessing the Bible corpus used in our paper. DO NOT distribute the corpus and use it for research purposes only.
+Fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLScs6fG2WxmAcMwbmS5fywzgaC9BQ09UPaJ1SBLuO3ae9cf3Jw/viewform?usp=sf_link)** if you are interested in accessing the Bible corpus used in our paper. DO NOT distribute the corpus; please use it for research purposes only.
 
 Our corpus contains 145 Bibles in 92 languages, aligned at the verse level. We provide tokenized train, development and test datasets per Bible as used in our paper. If you are interested in accessing the raw data, please refer to the appropriate sources listed below.
 
 If you use our corpus in your research, please cite as appropriate:
 
 ```
-@article{park2020morphology,
-      title={Morphology Matters: A Multilingual Language Modeling Analysis}, 
-      author={Hyunji Hayley Park and Katherine J. Zhang and Coleman Haley and Kenneth Steimel and Han Liu and Lane Schwartz},
-      year={2020},
-      eprint={2012.06262},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{10.1162/tacl_a_00365,
+    author = {Park, Hyunji Hayley and Zhang, Katherine J. and Haley, Coleman and Steimel, Kenneth and Liu, Han and Schwartz, Lane},
+    title = "{Morphology Matters: A Multilingual Language Modeling Analysis}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {261-276},
+    year = {2021},
+    month = {03},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00365},
+    url = {https://doi.org/10.1162/tacl\_a\_00365},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00365/1896757/tacl\_a\_00365.pdf},
 }
 
 @inproceedings{mielke-etal-2019-kind,
