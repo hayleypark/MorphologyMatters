@@ -21,8 +21,8 @@ If you use our corpus in your research, please cite as appropriate:
     month = {03},
     issn = {2307-387X},
     doi = {10.1162/tacl_a_00365},
-    url = {https://doi.org/10.1162/tacl\_a\_00365},
-    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00365/1896757/tacl\_a\_00365.pdf},
+    url = {https://doi.org/10.1162/tacl_a_00365},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00365/1896757/tacl_a_00365.pdf},
 }
 
 @inproceedings{mielke-etal-2019-kind,
