@@ -1,6 +1,6 @@
 # Morphology Matters: A Multilingual Language Modeling Analysis
 
-This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](https://doi.org/10.1162/tacl_a_00365)** (*TACL* 2021).
+This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00365/98237/Morphology-Matters-A-Multilingual-Language)** (*TACL* 2021).
 
 ## Bible corpus
 
