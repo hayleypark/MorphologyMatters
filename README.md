@@ -1,6 +1,6 @@
 # Morphology Matters: A Multilingual Language Modeling Analysis
 
-This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00365/98237/Morphology-Matters-A-Multilingual-Language)** (*TACL* 2021).
+This repository provides supplementary information for **[Morphology Matters: A Multilingual Language Modeling Analysis](https://doi.org/10.1162/tacl_a_00365)** (*TACL* 2021).
 
 ## Bible corpus
 
@@ -101,7 +101,7 @@ We augmented the existing WALS database by consulting reference grammars for eac
 | quy | Quechua (Ayacucho) | [Zariquiey and Córdova (2008)](http://repositorio.pucp.edu.pe/index/handle/123456789/134454) |
 | som | Somali | [Kirk (1905)](https://books.google.com/books?id=BxoUAAAAYAAJ), [Saeed (1999)](https://doi.org/10.1075/loall.10) |
 | tpi | Tok Pisin | [Verhaar (1995)](https://www.jstor.org/stable/20006762), [Woolford (1979)](https://doi.org/10.15144/PL-B66) |
-| wbm | Wa | [Mai (2012)](https://inter.payap.ac.th/wp-content/uploads/linguistics_students/Seng_Mai_Thesis.pdf) |
+| wbm | Wa | [Mai (2012)](https://drive.google.com/file/d/17VsF0WMbcHtspdj4FgQL6Yxo_H0WfFHi/view?usp=sharing) |
 
 
 \* Code table available at https://iso639-3.sil.org.
